@@ -1,7 +1,7 @@
 ## <em>Olá! Eu sou o Ruan Bueno!</em>👋
 
 - 🔭 Graduado em Ciência da Computação...
-- 👨‍💻 Desenvolvedor Full Stack!
+- 👨🏽‍💻 Desenvolvedor Full Stack!
 - 🌱 Aprendendo e Aperfeiçoando C#, .NET Core, ASP.NET Core...
 - 💬 "A tecnologia move o mundo" - Jobs, STEVE...
 <br>
@@ -15,7 +15,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center"><em>Tecnologias</em>👨‍💻</h1>
+    <h1 align="center"><em>Tecnologias</em>👨🏽‍💻</h1>
     <img align="center" alt="visual-icon" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_macos_bigsur_icon_189958.png">
     <img align="center" alt="csharp-icon" height="40" width="40" src="https://www.svgrepo.com/show/373533/csharp2.svg">
     <img align="center" alt=".net-icon"   height="40" width="40" src="https://static-00.iconduck.com/assets.00/dotnet-icon-256x256-ozvjws7o.png">
